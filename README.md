@@ -4,13 +4,13 @@ Do You remember old MS-DOS games? You can write Your own game in modern language
 
 Framework work via Swing and support:
 
-1. Transparent upscale to actual desktop resolution.
-2. PCX file decoding (1 bitplane, 8 bit per pixel - used in GIMP)
-3. Sprites
-4. Bitmap 8x8 fonts
-5. Both CGA palette
-6. Palette size is up to 256 colors - VGA 320x200x256 is possible.
-7. Good perfomance - sample game work on slow ARM without delay (Pocket C.H.I.P)
+* Transparent upscale to actual desktop resolution.
+* PCX file decoding (1 bitplane, 8 bit per pixel - used in GIMP)
+* Sprites
+* Bitmap 8x8 fonts
+* Both CGA palette
+* Palette size is up to 256 colors - VGA 320x200x256 is possible.
+* Good perfomance - sample game work on slow ARM without delay (Pocket C.H.I.P)
 
 ## Examples
 
