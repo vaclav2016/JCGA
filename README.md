@@ -9,7 +9,7 @@ Framework work via Swing and support:
 3. Sprites
 4. Bitmap 8*8 fonts
 5. Both CGA palette
-6. Palette size is up to 256 colors - VGA 320*200*256 is possible.
+6. Palette size is up to 256 colors - VGA 320x200x256 is possible.
 
 ## Examples
 
