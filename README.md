@@ -6,6 +6,8 @@ Did You remember old MS-DOS games? I can write Your own game in modern language 
 
 I had implement one example - Tetris game in CGA-style. Please, check https://github.com/vaclav2016/JCGA-Tetris
 
+![Tetris Video Game](screenshot-tetris.png)
+
 ## Build
 
 You need Maven to build:
