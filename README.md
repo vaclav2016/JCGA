@@ -1,10 +1,10 @@
 # CGA-graphics game framework for java
 
-Did You remember old DOS games? I can write Your own game in modern language - Java. Thi is Framework for development games in CGA-style graphics.
+Did You remember old DOS games? I can write Your own game in modern language - Java. This is framework for development games in CGA-style graphics.
 
 ## Build
 
-You need have Maven to build.
+You need Maven to build:
 
     $ mvn install
 
