@@ -1,6 +1,10 @@
-# CGA-graphics game framework for java
+# CGA/VGA-graphics game framework for java
 
-Did You remember old DOS games? I can write Your own game in modern language - Java. This is framework for development games in CGA-style graphics.
+Did You remember old MS-DOS games? I can write Your own game in modern language - Java. This is framework for development games in CGA/VGA-style graphics. Framework work via Swing and support transparent upscale.
+
+## Examples
+
+I had implement one example - Tetris game in CGA-style. Please, check https://github.com/vaclav2016/JCGA-Tetris
 
 ## Build
 
