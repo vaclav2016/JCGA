@@ -7,7 +7,7 @@ Framework work via Swing and support:
 1. Transparent upscale to actual desktop resolution.
 2. PCX file decoding (1 bitplane, 8 bit - use GIMP)
 3. Sprites
-4. Bitmap 8*8 fonts
+4. Bitmap 8x8 fonts
 5. Both CGA palette
 6. Palette size is up to 256 colors - VGA 320x200x256 is possible.
 
