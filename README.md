@@ -10,7 +10,7 @@ Framework work via Swing and support:
 * Bitmap 8x8 fonts
 * Both CGA palette
 * Palette size is up to 256 colors - VGA 320x200x256 is possible.
-* Good perfomance - sample game work on slow ARM without delay (Pocket C.H.I.P)
+* Good perfomance - sample game work on slow ARM without delay (like Pocket C.H.I.P)
 
 ## Examples
 
