@@ -3,6 +3,7 @@
 Do You remember old MS-DOS games? You can write Your own game in modern language - Java! This is Java framework for development desktop games in CGA/VGA-style graphic with 320*200 resolution.
 
 Framework work via Swing and support:
+
 1. Transparent upscale to actual desktop resolution.
 2. PCX file decoding (1 bitplane, 8 bit - use GIMP)
 3. Sprites
