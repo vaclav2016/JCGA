@@ -1,6 +1,6 @@
 # CGA/VGA-graphic game framework for Java
 
-Did You remember old MS-DOS games? I can write Your own game in modern language - Java. This is Java framework for development games in CGA/VGA-style graphic with 320*200 resolution. Framework work via Swing and support transparent upscale.
+Did You remember old MS-DOS games? You can write Your own game in modern language - Java! This is Java framework for development games in CGA/VGA-style graphic with 320*200 resolution. Framework work via Swing and support transparent upscale.
 
 ## Examples
 
