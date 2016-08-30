@@ -3,12 +3,12 @@
 Do You remember old MS-DOS games? You can write Your own game in modern language - Java! This is Java framework for development desktop games in CGA/VGA-style graphic with 320*200 resolution.
 
 Framework work via Swing and support:
-1. Transparent upscale.
-2. PCX file decoding (one bitplane - use GIMP)
+1. Transparent upscale to actual desktop resolution.
+2. PCX file decoding (1 bitplane, 8 bit - use GIMP)
 3. Sprites
-4. 8*8 bitmap fonts
-5. Both CGA pallette
-6. Pallette size is up to 256 colors - VGA 320*200*256 is possible.
+4. Bitmap 8*8 fonts
+5. Both CGA palette
+6. Palette size is up to 256 colors - VGA 320*200*256 is possible.
 
 ## Examples
 
