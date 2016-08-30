@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>onion</groupId>
+	<artifactId>cga-engine</artifactId>
+	<packaging>jar</packaging>
+	<version>0.0.1</version>
+	<name>Cga Game Engine</name>
+	<url>http://google.com/</url>
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+			</resource>
+		</resources>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifestEntries>
+							<Build-Jdk>1.1.7</Build-Jdk>
+							<Built-By>anonymous</Built-By>
+							<Created-By>hand</Created-By>
+							<Archiver-Version>pkzip 2.0.9</Archiver-Version>
+						</manifestEntries>
+					</archive>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
